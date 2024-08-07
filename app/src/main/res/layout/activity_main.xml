@@ -54,9 +54,9 @@
        android:textSize="90sp"
        android:textColor="@color/black"
        app:layout_constraintTop_toTopOf="@id/stopwatch"
-       android:layout_marginTop="280dp"
+       android:layout_marginTop="350dp"
        app:layout_constraintStart_toStartOf="parent"
-       android:layout_marginStart="80dp"/>
+       android:layout_marginStart="100dp"/>
 
    <TextView
        android:id="@+id/second"
